@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2618/trunk/iNeed
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/188/trunk/iNeed/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/188/trunk/iNeed/README.rdoc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/188/trunk/iNeed/.gitignore
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2303/trunk/iNeed/Gemfile
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2246/trunk/iNeed/Gemfile.lock
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/188/trunk/iNeed/config.ru
+END
